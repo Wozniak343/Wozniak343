@@ -1,4 +1,7 @@
-<p align="center"><img src="WozniakPP.png" width="480"></p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,35:f8f8f8,70:f0f0f0,100:ffffff&height=220&section=header&text=Wozniak343&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Software%20Developer%20%7C%20Creative%20Tech%20Enthusiast&descAlignY=58&descSize=16" />
+  <br><br>
+</div>
 <div>
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 <h2> / about me /</h2>
