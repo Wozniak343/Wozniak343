@@ -11,9 +11,9 @@
 - 🌱 currently learning <span style="color:#34d399"><strong>AI development</strong></span>
 - 🤝 open to learning, building, and collaborating on useful projects
 
-I am a Systems Engineer, having graduated with a strong commitment to academic and technical excellence. My professional focus lives at the intersection of <span style="color:#38bdf8">hardware infrastructure</span>, <span style="color:#a78bfa">software optimisation</span> and <span style="color:#f472b6">process automation</span>.
+Well, here’s the deal: I’m a Systems Engineer driven by one thing—precision. I specialize in bridging the gap between infrastructure and automation to build systems that actually deliver.
 
-I consider myself an efficiency enthusiast. I am not only interested in ensuring that the code works, but also that the entire system — from the operating system kernel to the end-user interface — runs with <span style="color:#f97316">clarity</span>, <span style="color:#22c55e">harmony</span> and <span style="color:#60a5fa">precision</span>. This attention to detail comes from a deep curiosity about system architecture and a personal appreciation for linguistic precision and high-quality technical documentation.
+I’m an efficiency enthusiast, plain and simple. I don’t settle for 'good enough'; I want every layer of the system running with surgical precision. Between my deep dive into system architecture and my knack for clean documentation, I make sure nothing falls through the cracks.
 
 <p>
   <br>
